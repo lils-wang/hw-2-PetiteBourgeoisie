@@ -5,3 +5,6 @@ _This repository is public so that Binder can find it. All code and data is base
 
 Binder Badge:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw-2-PetiteBourgeoisie/HEAD)
+This binder badge will take you to the environment that the original project was ran under.
+
+The Gravitational Wave Open Science Center (GWOSC), formerly known as the LIGO Open Science Center, was created to provide public access to gravitational-wave data products. The collaborations running LIGO, Virgo, GEO600, and KAGRA have all agreed to use GWOSC services as the primary access points for public data products. This collaborative approach benefits users by creating a uniform interface to access data from multiple observatories, and provides cost savings to the various observatories by sharing the tools, services, and human resources. 
