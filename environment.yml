@@ -1,0 +1,14 @@
+name: ligo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=1.26
+  - scipy=1.15
+  - pandas=2.3
+  - matplotlib=3.10
+  - h5py=3.13
+  - ipython=9.3
+  - ipykernel
+  - decorator=5.1
+  - pip
